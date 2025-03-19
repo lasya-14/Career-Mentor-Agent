@@ -86,7 +86,7 @@ CHAVVAKULA LASYAVALLI
 
 ## 🔗 Hosted App Link
 
-[Career Mentor Agent](https://career-mentor-agent-wuys6av3zrxfxtzr3ujvy6.streamlit.app/)
+[Career Mentor Agent](https://career-mentor-agent-hbgugvwap3amp2vvmjnsfp.streamlit.app/)
 
 ---
 
