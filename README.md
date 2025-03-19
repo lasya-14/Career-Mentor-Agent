@@ -29,7 +29,7 @@ career-mentor-agent/
 ### **1️⃣ Clone the Repository**
 
 ```sh
-git clone https://github.com/lasya-14/career-mentor-agent.git
+git clone https://github.com/lasya-14/Career-Mentor-Agent.git
 cd career-mentor-agent
 ```
 
